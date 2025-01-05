@@ -1,0 +1,22 @@
+{
+  "name": "33.4_node_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brice-USF-Bootcamp-Projects/33.4-Node-Intro.git"
+  },
+  "author": "brice nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brice-USF-Bootcamp-Projects/33.4-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/Brice-USF-Bootcamp-Projects/33.4-Node-Intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
